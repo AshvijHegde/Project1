@@ -1,3 +1,4 @@
+/* This program will show demo on a simple calculator */
 import java.util.Scanner;
 
  public class calculator
@@ -25,7 +26,7 @@ import java.util.Scanner;
                          res = a + b;
                          System.out.print("Result = " + res);
 	                 break;															                       
-	      case '2' : System.out.print("Enter Two Number : ");
+ public class calculator	      case '2' : System.out.print("Enter Two Number : ");
 	                 a = scan.nextFloat();
 	                 b = scan.nextFloat();
 	                 res = a - b;
